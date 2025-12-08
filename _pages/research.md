@@ -89,6 +89,7 @@ Related publications:
  [Loose et al.](https://doi.org/10.1029/2020JC016112), J. Geophys. Res (2020);
 Loose, [PhD Dissertation](http://bora.uib.no/handle/1956/24456), 2019.
 
+
 ## Uncertainty Quantification & Observing System Design
 
 <figure>
@@ -107,6 +108,7 @@ To tackle these questions, I performed quantitative observing system design, thr
 Related publications: [Loose et al.](https://doi.org/10.1029/2020JC016112), J. Geophys. Res (2020); 
 [Loose and Heimbach](https://doi.org/10.1029/2020MS002386), JAMES (2021);
 [Fujii et al.](https://www.frontiersin.org/articles/10.3389/fmars.2019.00417/full), Front. Mar. Sci. (2019).
+[v. Schuckman et al.](https://doi.org/10.1016/j.marpol.2025.106922), Marine Policy (2025).
 
 ## Development of Open Source Software Tools
 
