@@ -6,9 +6,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Preprints
+
+| <a href="/assets/images/figure_indicator.pdf"><img src="/assets/images/figure_indicator.pdf" width="600px" alt=""> | von Schuckman, K., ..., **Loose, N.**, and Yu, W. (2024). Global ocean indicators: Marking pathways at the science-policy nexus, _Marine Policy_. doi: [10.1016/j.marpol.2025.106922](https://doi.org/10.1016/j.marpol.2025.106922).|
 
 ## Journal Articles
 
+| <a href="/assets/images/figure_indicator.pdf"><img src="/assets/images/figure_indicator.pdf" width="600px" alt=""> | von Schuckman, K., ..., **Loose, N.**, and Yu, W. (2024). Global ocean indicators: Marking pathways at the science-policy nexus, _Marine Policy_. doi: [10.1016/j.marpol.2025.106922](https://doi.org/10.1016/j.marpol.2025.106922).|
 | <a href="/assets/images/m2lines_logo.png"><img src="/assets/images/m2lines_logo.png" width="600px" alt=""> | Balwada, D., ..., **Loose, N.**, and Zanna, L. (2024). Learning Machine Learning with Lorenz-96, _Journal of Open Source Education_. doi: [10.21105/jose.00241](https://doi.org/10.21105/jose.00241).|
 | <a href="/assets/images/climsim.png"><img src="/assets/images/climsim.png" width="600px" alt=""> | Yu, S., ..., **Loose, N.**, ... and Pritchard, M.S. (2023). ClimSim: A Large Multi-Scale Dataset for Hybrid Physics-ML Climate Emulation. _Advances in Neural Information Processing Systems_, [url](https://proceedings.neurips.cc/paper_files/paper/2023/hash/45fbcc01349292f5e059a0b8b02c8c3f-Abstract-Datasets_and_Benchmarks.html).|
 | <a href="/assets/images/GLGMwork_0.25deg.png"><img src="/assets/images/GLGMwork_0.25deg.png" width="600px" alt=""> | **Loose, N.**, Marques, G.M., Adcroft, A., Bachman, S., Griffies, S.M., Grooms, I., Hallberg, R.W. and Jansen, M. (2022). Comparing two parameterizations for the restratification effect of mesoscale eddies in an isopycnal ocean model. _Journal of Advances in Modeling Earth Systems_. doi: [10.1029/2022MS003518](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003518).|
