@@ -8,8 +8,7 @@ author_profile: true
 
 ## Preprints
 
-| <a href="/assets/images/figure_indicator.pdf"><img src="/assets/images/figure_indicator.pdf" width="600px" alt=""> | von Moses, W., ..., **Loose, N.**, and Heimbach, P. (2025). DJ4Earth: Differentiable, and Performance-portable Earth System Modeling via Program Transformations
-, submitted to JAMES_. doi: [10.22541/essoar.176314951.18114616/v1](https://essopenarchive.org/users/1000301/articles/1360053-dj4earth-differentiable-and-performance-portable-earth-system-modeling-via-program-transformations?commit=b41d12401ff9fbfce8bb85c4a3c9cd8681e142a0).|
+| <a href="/assets/images/figure_indicator.pdf"><img src="/assets/images/figure_indicator.pdf" width="600px" alt=""> | von Moses, W., ..., **Loose, N.**, and Heimbach, P. (2025). DJ4Earth: Differentiable, and Performance-portable Earth System Modeling via Program Transformations, submitted to JAMES_. doi: [10.22541/essoar.176314951.18114616/v1](https://essopenarchive.org/users/1000301/articles/1360053-dj4earth-differentiable-and-performance-portable-earth-system-modeling-via-program-transformations?commit=b41d12401ff9fbfce8bb85c4a3c9cd8681e142a0).|
 
 ## Journal Articles
 
