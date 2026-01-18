@@ -98,6 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "Vamshi-Kodipaka"
+  Research Gate    : "https://www.researchgate.net/profile/Vamshi-Kodipaka?ev=hdr_xprf"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -109,7 +110,8 @@ author:
   xing             :
   youtube          : "https://www.youtube.com/@vamshikodipaka1907"
   orcid            : "0000-0001-6116-8454"
-
+  Google Scholar   : "https://scholar.google.com/citations?user=ah_UH7QAAAAJ&hl=en&oi=ao"
+  
 
 # Reading Files
 include:
