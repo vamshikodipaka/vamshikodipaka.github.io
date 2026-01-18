@@ -1,5 +1,5 @@
 ---
-title: "Vamshi's Webpage"
+title: ""
 layout: archive
 sitemap: true
 permalink: /
