@@ -11,18 +11,23 @@ author_profile: true
 # About
 
 
-I am a Researcher at [[C]Worthy](https://www.cworthy.org/), a small non-profit research organization dedicated to quantifying the efficiency and ecological impacts of ocean-based carbon dioxide removal (CDR). 
-At [C]Worthy, I use ocean circulation models such as Oceananigans.jl and ROMS-MARBL to investigate how physical ocean processes influence CDR outcomes. My work focuses on developing faster and more efficient methods for running ocean biogeochemical simulations and performing CDR calculations. I also build open-source software tools to ensure these simulations are reproducible and accessible to the broader research and CDR communities.
+I am a Researcher at [[C]Worthy](https://www.cworthy.org/),Vamshi Kodipaka, a PhD researcher at the University of Coimbra, is forging lifelines in the untamed wilderness. He crafts drone navigation systems, employing computer vision, robotics, and AI to pierce the fog of missing person searches, transforming technology into rescue.
+
+His research also transforms drone critical missions, including their role as first responders, enhancing precision agriculture, environmental monitoring, wildfire management, and disaster assessment. These missions enhance the speed, safety, and effectiveness of search and rescue, especially in dangerous or remote environments. They are used to augment and support human teams with key applications like rapid area assessment, person and vehicle detection, communication relay, payload delivery, intelligence, and reconnaissance.
+
+He achieved the robustness for tiny aerial person detection by proposing hybrid YOLO-Transformers, Synaptic Attention and Retention. Currently his focus is Drone Autonomy: Adaptive Informative Path Planning that is to dynamically plan the most efficient search route based on the terrain, weather conditions, cues and last-known location of the missing person. It avoids obstacles in real-time and prioritizes areas with a higher probability of detection. He uses ROS+NVIDIA Jetson Edge device for validation of the proposed methods.
+
+Beyond the lab, he is propelled and captivated by the Mohammed Bin Zayed International Robotics Challenge (MBZIRC), Abu Dhabi's biennial event that pushes global real-world robotic frontiers, catalyzing resilient solutions and breakthroughs that redefine exploration and cutting-edge innovation.
+
+Experienced in 3 National Projects specializing in the fields of Computer Vision and Robotics. Super nerd who loves and enjoys his work. An adaptive team player, a quick learner with enthusiasm to explore new avenues inspired by exemplary ideas. His motto is to add value to everything he does. His research is currently funded by FCT Portugal and is associated with Institute of Systems & Robotics - Coimbra (Field Robotics Group).
+
+Personality: | Roboticist | Visionary | Purpose-Driven | Innovative | Adaptive | Catalytic | Empathic |
 
 Before joining [C]Worthy, I worked with the [Ocean Transport and Eddy Energy Climate Process Team (CPT)](https://ocean-eddy-cpt.github.io/) and [M2LInES Team](https://m2lines.github.io/), where I studied ocean mesoscale eddy parameterizations in both projects.
-My research with the CPT focused on theoretical and numerical modeling approaches to embedding physical and energy constraints into ocean eddy parameterizations. 
-As part of the M2LInES project, I applied machine learning techniques to develop hybrid climate models, integrating machine-learned eddy parameterizations with traditional ocean model dynamical cores.
 During my PhD, I worked on adjoint modeling, ocean state estimation and uncertainty quantification within the [ECCO project](https://ecco-group.org/).
 
 I develop open-source software tools in Python and Julia to support efficient, reproducible, and open science within our community.
 I have led the development of two open-source Python packages: [GCM-Filters](https://gcm-filters.readthedocs.io/en/latest/) and [ROMS-Tools](https://roms-tools.readthedocs.io/en/latest/).
 I am also a PI in the [DJ4Earth project](https://dj4earth.github.io/), where we are making Julia-based Earth system models, including [Oceananigans](https://clima.github.io/OceananigansDocumentation/stable/), differentiable.
-Differentiable Earth system models enable an online approach to training hybrid climate models, where machine learning techniques can be seamlessly integrated with physical model dynamics.
 
-When I'm not doing research, I enjoy being active outdoors and spending time with my toddler. I love rock climbing, trail running, and backcountry skiing.
 
