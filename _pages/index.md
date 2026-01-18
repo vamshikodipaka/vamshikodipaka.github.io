@@ -11,7 +11,7 @@ author_profile: true
 # About
 
 
-I am a Researcher at [[C]Worthy](https://www.cworthy.org/),Vamshi Kodipaka, a PhD researcher at the University of Coimbra, is forging lifelines in the untamed wilderness. He crafts drone navigation systems, employing computer vision, robotics, and AI to pierce the fog of missing person searches, transforming technology into rescue.
+I am a Researcher at [[C]Worthy](https://www.cworthy.org/), Vamshi Kodipaka, a PhD researcher at the University of Coimbra, is forging lifelines in the untamed wilderness. He crafts drone navigation systems, employing computer vision, robotics, and AI to pierce the fog of missing person searches, transforming technology into rescue.
 
 His research also transforms drone critical missions, including their role as first responders, enhancing precision agriculture, environmental monitoring, wildfire management, and disaster assessment. These missions enhance the speed, safety, and effectiveness of search and rescue, especially in dangerous or remote environments. They are used to augment and support human teams with key applications like rapid area assessment, person and vehicle detection, communication relay, payload delivery, intelligence, and reconnaissance.
 
