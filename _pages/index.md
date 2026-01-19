@@ -31,7 +31,7 @@ My Personality: Roboticist, Visionary, Purpose-Driven, Innovative, Adaptive, Cat
 
 <figure>
   <img src="/assets/images/mitss.webp" width="1000px" alt="">
-  <figcaption> Last time - Group photo with MIT colleagues 2024
+  <figcaption> Last time in Media - Group photo with MIT colleagues 2024
 </figcaption>
 </figure>
 
