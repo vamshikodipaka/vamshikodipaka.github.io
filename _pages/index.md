@@ -17,7 +17,7 @@ My research also transforms drone critical missions, including their role as fir
 
 I achieved the robustness for tiny aerial person detection by proposing hybrid YOLO-Transformers, Synaptic Attention and Retention. Currently, I focus is Drone Autonomy: Adaptive Informative Path Planning that is to dynamically plan the most efficient search route based on the terrain, weather conditions, cues and last-known location of the missing person. It avoids obstacles in real-time and prioritizes areas with a higher probability of detection. I use ROS+NVIDIA Jetson Edge device for validation of the proposed methods.
 
-Beyond the lab, I am propelled and captivated by the Mohammed Bin Zayed International Robotics Challenge (MBZIRC), Abu Dhabi's biennial event that pushes global real-world robotic frontiers, catalyzing resilient solutions and breakthroughs that redefine exploration and cutting-edge innovation.
+Beyond the lab, I am propelled and captivated by the [Mohammed Bin Zayed International Robotics Challenge (MBZIRC)](https://www.mbzirc.com/about-us), Abu Dhabi's biennial event that pushes global real-world robotic frontiers, catalyzing resilient solutions and breakthroughs that redefine exploration and cutting-edge innovation.
 
 Experienced in 3 National Projects specializing in the fields of Computer Vision and Robotics. Super nerd who loves and enjoys his work. An adaptive team player, a quick learner with enthusiasm to explore new avenues inspired by exemplary ideas. His motto is to add value to everything he does. His research is currently funded by FCT Portugal and is associated with Institute of Systems & Robotics - Coimbra (Field Robotics Group).
 
