@@ -31,6 +31,7 @@ My research lies at the intersection of deep learning, person detection, informa
 • Proposed hybrid YOLO‑Transformers and Retention, achieved the robustness over 30% for tiny and small aerial person detection.
 
 • Working on UAV informative path planning approaches for effective search, deployment on ROS + NVIDIA Jetson with field experiments. 
+
 [Video1](https://youtu.be/wa7ZPiVeVA8)
 
 
@@ -43,7 +44,9 @@ My research lies at the intersection of deep learning, person detection, informa
 </figure>
 
 • Goal was to develop artificial perception mechanisms supporting forestry ground robotic operations for land maintenance and clearance.
+
 • Extended work to 2D Dynamic Entity Tracking with Multispectral Images to dockers, dataset labelling, and Stereo‑3D‑Reconstruction in ROS. 
+
 [Video2](https://youtu.be/IQaL3qS-bVM)
 
 
@@ -56,8 +59,10 @@ My research lies at the intersection of deep learning, person detection, informa
 </figure>
 
 • Goal was to integrate a vision‑based system on a quadrotor and a rover, and develop algorithms to track another moving quadrotor outdoors.
+
 • Designed a novel approach for Occlusion Avoidance by Mathematical Modelling, surveyed literature for learning approaches in tracking, and
 benchmarked Convolutional Neural Networks with PC configurations, CPU and GPUs.
+
 [Video3](https://youtu.be/o_03c37iEzY)
 
 
