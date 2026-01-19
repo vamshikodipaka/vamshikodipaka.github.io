@@ -6,7 +6,7 @@ author_profile: true
 permalink: /CV/
 ---
 
-[Click here to download my CV](/assets/documents/CV_NoraLoose.pdf).
+[Click here to download my CV](/assets/documents/MyCV.pdf).
 
 <object data="/assets/documents/MyCV.pdf" type="application/pdf" width="100%" height="120px"> 
   <p>It appears you don't have a pdf plugin for this browser.
