@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 ---
 
-<img src="/assets/images/photovamshi.PNG" width="340px" alt="Vamshi Kodipaka" align="right" style="margin-left: 40px; margin-bottom: 10px;" />
+<img src="/assets/images/photovamshi.PNG" width="500px" alt="Vamshi Kodipaka" align="right" style="margin-left: 40px; margin-bottom: 10px;" />
 
 # About
 
@@ -23,7 +23,5 @@ Experienced in 3 National Projects specializing in the fields of Computer Vision
 
 I worked as a Research Fellow at University of Coimbra, this fellowship was advised by [Prof. David Portugal](https://www.isr.uc.pt/index.php/people?task=showpeople.show%28%29&idPerson=8) and [Prof. Joao Ferreira](https://www.isr.uc.pt/index.php/people?task=showpeople.show%28%29&idPerson=5). Prior to joining UC, I obtained a M.Sc. degree in Computer Vision in the Erasmus [VIBOT](https://www.vibot.org/) (VIsion and RoBOTics) program at the [Université de Bourgogne](https://www.ube.fr/en/home/), France. I was a [TS MJBP OBC Overseas Scholar](https://telanganaepass.cgg.gov.in/OverseasLinks.do). I had done my master thesis which was advised by [Prof. Antonio Franchi](https://people.utwente.nl/a.franchi) at LAAS-CNRS, France. I had obtained a B.Tech. degree in [Electronics and Instrumentation Engineering](https://www.kitsw.ac.in/departments/EI/home.html) at Kakatiya University, India. 
 
-Personality: | Roboticist | Visionary | Purpose-Driven | Innovative | Adaptive | Catalytic | Empathic |
-
-
+My Personality: Roboticist, Visionary, Purpose-Driven, Innovative, Adaptive, Catalytic and Empathic
 
