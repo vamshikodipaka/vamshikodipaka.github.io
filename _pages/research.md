@@ -54,7 +54,13 @@ My research lies at the intersection of deep learning, person detection, informa
 
 <figure>
   <img src="/assets/images/oadltracking.jpeg" width="1000px" alt="">
-  <figcaption> Vision‑based Multi‑robot Target Tracking with Aerial and Ground Robots
+  <figcaption> Vision‑based Multi‑robot Target Tracking with Aerial and Ground Robots - 1
+</figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/images/detection.jpg" width="1000px" alt="">
+  <figcaption> Vision‑based Multi‑robot Target Tracking with Aerial and Ground Robots - 2
 </figcaption>
 </figure>
 
