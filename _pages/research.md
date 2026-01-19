@@ -10,15 +10,14 @@ toc_icon: "gear"
 toc_sticky: true
 ---
 
-My research lies at the intersection of physical oceanography, numerical modeling, and machine learning. Current and past research projects include:
-- Regional coupled physical-biogeochemical modeling
-- Integrating machine learning and ocean modeling
-- Ocean mesoscale eddies and their parameterizations
-- Adjoint modeling in the North Atlantic
-- Uncertainty quantification & observing system design
-- Development of open source software tools
+My research lies at the intersection of deep learning, person detection, informative path planning, drones, search and rescue. Current and past research projects include:
+- Navigation Systems for Search and Rescue with Drones 
+- Safety, Exploration and Maintenance of Forests with Ecological Robotics (SEMFIRE)
+- Control of Multi‑Robot Systems for Observing Dynamical Phenomena (MuRoPhen)
+- Vision‑based Multi‑robot Target Tracking with Aerial and Ground Robots
+- Performance evaluation of Various QRS Detection Algorithms
 
-## Regional Coupled Physical-Biogeochemical Modeling
+## Navigation Systems for Search and Rescue with Drones
 
 <figure>
   <img src="/assets/images/antitracer.png" width="1000px" alt="">
@@ -28,7 +27,7 @@ My research lies at the intersection of physical oceanography, numerical modelin
 
 In my current role, I develop methods to improve the computational efficiency of simulating physical and biogeochemical ocean processes. At [C]Worthy, our goal is to quantify the carbon removal potential of climate intervention strategies such as ocean alkalinity enhancement and direct ocean capture. To reduce the high computational cost of running many individual climate intervention experiments, I am implementing and testing a technique that allows multiple intervention scenarios to be simulated within a single physical ocean model run, without the need for biogeochemistry. I carry out this work using ROMS-MARBL and Oceananigans.jl.
 
-## Integrating Machine Learning and Ocean Modeling
+## Safety, Exploration and Maintenance of Forests with Ecological Robotics (SEMFIRE)
 
 <figure>
   <img src="/assets/images/hybrid_climate_modeling.png" width="1000px" alt="">
@@ -49,7 +48,7 @@ As part of the [DJ4Earth project](https://dj4earth.github.io/), I supervise stud
 Related publications: [Balwada, ..., Loose et al.](https://doi.org/10.21105/jose.00241), JOSE (2024);
 [Yu, ..., Loose et al.](https://proceedings.neurips.cc/paper_files/paper/2023/hash/45fbcc01349292f5e059a0b8b02c8c3f-Abstract-Datasets_and_Benchmarks.html), NeurIPS (2023)
 
-## Ocean Mesoscale Eddies and their Parameterizations
+## Control of Multi‑Robot Systems for Observing Dynamical Phenomena (MuRoPhen)
 
 <figure>
   <img src="/assets/images/KE.png" width="1000px" alt="">
@@ -71,7 +70,7 @@ Related publications: [Loose et al.](https://doi.org/10.1175/JPO-D-22-0083.1), J
 [Loose et al.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003518), JAMES (2023);
 [Marques, Loose et al.](https://gmd.copernicus.org/articles/15/6567/2022/), GMD (2022). 
 
-## Adjoint Modeling in the North Atlantic
+## Vision‑based Multi‑robot Target Tracking with Aerial and Ground Robots
 
 <figure>
   <img src="/assets/images/sensitivity_teleconnections.png" alt="">
@@ -90,7 +89,7 @@ Related publications:
 Loose, [PhD Dissertation](http://bora.uib.no/handle/1956/24456), 2019.
 
 
-## Uncertainty Quantification & Observing System Design
+## Performance evaluation of Various QRS Detection Algorithms
 
 <figure>
   <img src="/assets/images/QND.png" alt="">
@@ -109,29 +108,3 @@ Related publications: [Loose et al.](https://doi.org/10.1029/2020JC016112), J. G
 [Loose and Heimbach](https://doi.org/10.1029/2020MS002386), JAMES (2021);
 [Fujii et al.](https://www.frontiersin.org/articles/10.3389/fmars.2019.00417/full), Front. Mar. Sci. (2019).
 [v. Schuckman et al.](https://doi.org/10.1016/j.marpol.2025.106922), Marine Policy (2025).
-
-## Development of Open Source Software Tools
-
-I am engaged with developing open-source software tools in Python and Julia to enable our Earth Science community to perform data analysis and modeling in an efficient and reproducible way. 
-I have led the development of two open-source Python packages: [GCM-Filters](https://gcm-filters.readthedocs.io/en/latest/) and [ROMS-Tools](https://roms-tools.readthedocs.io/en/latest/).
-
-<figure>
-  <img src="/assets/images/roms_grid.png" alt="">
-  <figcaption> 
-A ROMS grid created with the open-source Python package ROMS-Tools.
-</figcaption>
-</figure>
-`ROMS-Tools` is a Python package for creating the input files that are necessary to run a ROMS simulation. This includes creating a grid, tidal, boundary, and atmospheric forcings, initial conditions, and more! 
-
-<figure>
-  <img src="/assets/images/filter_intro.png" alt="">
-  <figcaption> 
-Filtering surface relative vorticity from a global 0.1 degree MOM6 simulation with the open-source Python package GCM-Filters.
-</figcaption>
-</figure>
-`GCM-Filters` is a Python package that allows scientists to perform spatial filtering analysis in an easy, flexible, efficient, and reproducible way. `GCM-Filters` is designed to work with gridded data that is produced by General Circulation Models (GCMs) of ocean, weather, and climate. 
-Check out [this presentation](https://noraloose.github.io/ams2022-talk) on GCM-Filters!
-
-Related publications: [Loose et al.](https://doi.org/10.21105/joss.03947), JOSS (2022); 
-[Grooms, Loose et al.](https://doi.org/10.1029/2021MS002552), JAMES (2021).
-
