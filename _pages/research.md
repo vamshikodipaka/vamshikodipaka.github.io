@@ -66,7 +66,7 @@ benchmarked Convolutional Neural Networks with PC configurations, CPU and GPUs.
 [Video3](https://youtu.be/o_03c37iEzY)
 
 
-## ROS Project: Autonomous Navigation and Tag Detection for IoT Applications
+## ROS Project: Autonomous Navigation and Tag Detection for IoT Applications - 2019
 
 <figure>
   <img src="/assets/images/ros2.png" width="1000px" alt="">
@@ -88,7 +88,7 @@ Software Tools: ROS, Python, Ubuntu 16.04, Kinetic Kame
 [Video4](https://www.youtube.com/watch?v=rtxCUmQBTSE)
 
 
-## Performance evaluation of Various QRS Detection Algorithms
+## Performance evaluation of Various QRS Detection Algorithms - 2016
 
 <figure>
   <img src="/assets/images/peovqda.PNG" width="1000px" alt="">
