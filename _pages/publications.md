@@ -19,7 +19,7 @@ author_profile: true
 
 ## Thesis
 
-| <a href="/assets/images/oadltracking.jpeg"><img src="/assets/images/oadltracking.jpeg" width="900px" alt=""> | **Kodipaka, V.** (2020). Vision based Multi-robot Tracking of Target with Aerial and Ground Robots, _M.Sc. Dissertation_, University of Burgundy, France. [M.Sc. Thesis](https://github.com/vamshikodipaka/Occlusion-Avoidance-and-DL-for-Tracking).|
+| <a href="/assets/images/oadltracking.jpeg"><img src="/assets/images/oadltracking.jpeg" width="1500px" alt=""> | **Kodipaka, V.** (2020). Vision based Multi-robot Tracking of Target with Aerial and Ground Robots, _M.Sc. Dissertation_, University of Burgundy, France. [M.Sc. Thesis](https://github.com/vamshikodipaka/Occlusion-Avoidance-and-DL-for-Tracking).|
 
 
 
