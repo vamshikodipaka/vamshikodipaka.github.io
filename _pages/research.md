@@ -18,7 +18,7 @@ My research lies at the intersection of deep learning, person detection, informa
 - Performance evaluation of Various QRS Detection Algorithms
 
 
-# Navigation Systems for Search and Rescue with Drones - (2022-26)
+## Navigation Systems for Search and Rescue with Drones - (2022-26)
 
 <figure>
   <img src="/assets/images/nsfsrd.png" width="1000px" alt="">
@@ -32,7 +32,7 @@ My research lies at the intersection of deep learning, person detection, informa
 [Video1](https://youtu.be/wa7ZPiVeVA8)
 
 
-# Safety, Exploration and Maintenance of Forests with Ecological Robotics (SEMFIRE) - 2022
+## Safety, Exploration and Maintenance of Forests with Ecological Robotics (SEMFIRE) - 2022
 
 <figure>
   <img src="/assets/images/semfire.png" width="1000px" alt="">
@@ -45,7 +45,7 @@ My research lies at the intersection of deep learning, person detection, informa
 [Video2](https://youtu.be/IQaL3qS-bVM)
 
 
-# Control of Multi‑Robot Systems for Observing Dynamical Phenomena (MuRoPhen) - 2020
+## Control of Multi‑Robot Systems for Observing Dynamical Phenomena (MuRoPhen) - 2020
 
 <figure>
   <img src="/assets/images/oadltracking.jpeg" width="1000px" alt="">
@@ -59,7 +59,7 @@ benchmarked Convolutional Neural Networks with PC configurations, CPU and GPUs.
 [Video3](https://youtu.be/o_03c37iEzY)
 
 
-# ROS Project: Autonomous Navigation and Tag Detection for IoT Applications
+## ROS Project: Autonomous Navigation and Tag Detection for IoT Applications
 
 <figure>
   <img src="/assets/images/ros2.png" width="1000px" alt="">
@@ -81,7 +81,7 @@ Software Tools: ROS, Python, Ubuntu 16.04, Kinetic Kame
 [Video4](https://www.youtube.com/watch?v=rtxCUmQBTSE)
 
 
-# Performance evaluation of Various QRS Detection Algorithms
+## Performance evaluation of Various QRS Detection Algorithms
 
 <figure>
   <img src="/assets/images/peovqda.png" width="1000px" alt="">
