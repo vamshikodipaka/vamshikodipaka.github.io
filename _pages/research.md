@@ -28,12 +28,12 @@ My research lies at the intersection of deep learning, person detection, informa
 • **Goal** is to develop and integrate the novel informative planning and detection system for drone‑based missing person searches in the wilderness.
 • **Proposed** hybrid YOLO‑Transformers and Retention, achieved the robustness over 30% for tiny and small aerial person detection.
 • **Working on** UAV informative path planning approaches for effective search, deployment on ROS + NVIDIA Jetson with field experiments. 
-[Video1](https://youtu.be/IQaL3qS-bVM)
+[Video1](https://youtu.be/wa7ZPiVeVA8)
 
 ## Safety, Exploration and Maintenance of Forests with Ecological Robotics (SEMFIRE) - 2022
 
 <figure>
-  <img src="/assets/images/hybrid_climate_modeling.png" width="1000px" alt="">
+  <img src="/assets/images/semfire.png" width="1000px" alt="">
   <figcaption><figcaption>Dynamic Entity Tracking with Multispectral Images in Forestry Environments
 </figcaption>
 </figure>
@@ -58,7 +58,7 @@ benchmarked Convolutional Neural Networks with PC configurations, CPU and GPUs.
 ## ROS Project: Autonomous Navigation and Tag Detection for IoT Applications
 
 <figure>
-  <img src="/assets/images/ros.png" width="2000px" alt="">
+  <img src="/assets/images/ros2.png" width="1000px" alt="">
   <figcaption> Autonomous Navigation and Tag Detection for IoT Applications
 </figcaption>
 </figure>
@@ -79,7 +79,7 @@ benchmarked Convolutional Neural Networks with PC configurations, CPU and GPUs.
 ## Performance evaluation of Various QRS Detection Algorithms
 
 <figure>
-  <img src="/assets/images/peovqda.png" alt="">
+  <img src="/assets/images/peovqda.png" width="1000px" alt="">
   <figcaption> Performance evaluation of Various QRS Detection Algorithms
 </figcaption>
 </figure>
