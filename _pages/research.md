@@ -27,7 +27,9 @@ My research lies at the intersection of deep learning, person detection, informa
 </figure>
 
 • Goal is to develop and integrate the novel informative planning and detection system for drone‑based missing person searches in the wilderness.
+
 • Proposed hybrid YOLO‑Transformers and Retention, achieved the robustness over 30% for tiny and small aerial person detection.
+
 • Working on UAV informative path planning approaches for effective search, deployment on ROS + NVIDIA Jetson with field experiments. 
 [Video1](https://youtu.be/wa7ZPiVeVA8)
 
@@ -35,7 +37,7 @@ My research lies at the intersection of deep learning, person detection, informa
 ## Safety, Exploration and Maintenance of Forests with Ecological Robotics (SEMFIRE) - 2022
 
 <figure>
-  <img src="/assets/images/semfire.png" width="1000px" alt="">
+  <img src="/assets/images/semfire.png" width="900px" alt="">
   <figcaption>Dynamic Entity Tracking with Multispectral Images in Forestry Environments
 </figcaption>
 </figure>
@@ -84,7 +86,7 @@ Software Tools: ROS, Python, Ubuntu 16.04, Kinetic Kame
 ## Performance evaluation of Various QRS Detection Algorithms
 
 <figure>
-  <img src="/assets/images/peovqda.png" width="1000px" alt="">
+  <img src="/assets/images/peovqda.png" width="900px" alt="">
   <figcaption> Performance evaluation of Various QRS Detection Algorithms
 </figcaption>
 </figure>
