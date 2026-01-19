@@ -17,45 +17,49 @@ My research lies at the intersection of deep learning, person detection, informa
 - Vision‑based Multi‑robot Target Tracking with Aerial and Ground Robots
 - Performance evaluation of Various QRS Detection Algorithms
 
-## Navigation Systems for Search and Rescue with Drones - (2022-26)
+
+# Navigation Systems for Search and Rescue with Drones - (2022-26)
 
 <figure>
-  <img src="/assets/images/semfire.png" width="1000px" alt="">
-  <figcaption>Navigation Systems for Search and Rescue with Drones
+  <img src="/assets/images/nsfsrd.png" width="1000px" alt="">
+  <figcaption> Navigation Systems for Search and Rescue with Drones
 </figcaption>
 </figure>
 
-• **Goal** is to develop and integrate the novel informative planning and detection system for drone‑based missing person searches in the wilderness.
-• **Proposed** hybrid YOLO‑Transformers and Retention, achieved the robustness over 30% for tiny and small aerial person detection.
-• **Working on** UAV informative path planning approaches for effective search, deployment on ROS + NVIDIA Jetson with field experiments. 
+• Goal is to develop and integrate the novel informative planning and detection system for drone‑based missing person searches in the wilderness.
+• Proposed hybrid YOLO‑Transformers and Retention, achieved the robustness over 30% for tiny and small aerial person detection.
+• Working on UAV informative path planning approaches for effective search, deployment on ROS + NVIDIA Jetson with field experiments. 
 [Video1](https://youtu.be/wa7ZPiVeVA8)
 
-## Safety, Exploration and Maintenance of Forests with Ecological Robotics (SEMFIRE) - 2022
+
+# Safety, Exploration and Maintenance of Forests with Ecological Robotics (SEMFIRE) - 2022
 
 <figure>
   <img src="/assets/images/semfire.png" width="1000px" alt="">
-  <figcaption><figcaption>Dynamic Entity Tracking with Multispectral Images in Forestry Environments
+  <figcaption>Dynamic Entity Tracking with Multispectral Images in Forestry Environments
 </figcaption>
 </figure>
 
-• **Goal** was to develop artificial perception mechanisms supporting forestry ground robotic operations for land maintenance and clearance.
-• **Extended** work to 2D Dynamic Entity Tracking with Multispectral Images to dockers, dataset labelling, and Stereo‑3D‑Reconstruction in ROS. 
+• Goal was to develop artificial perception mechanisms supporting forestry ground robotic operations for land maintenance and clearance.
+• Extended work to 2D Dynamic Entity Tracking with Multispectral Images to dockers, dataset labelling, and Stereo‑3D‑Reconstruction in ROS. 
 [Video2](https://youtu.be/IQaL3qS-bVM)
 
-## Control of Multi‑Robot Systems for Observing Dynamical Phenomena (MuRoPhen) - 2020
+
+# Control of Multi‑Robot Systems for Observing Dynamical Phenomena (MuRoPhen) - 2020
 
 <figure>
   <img src="/assets/images/oadltracking.jpeg" width="1000px" alt="">
-  <figcaption>Vision‑based Multi‑robot Target Tracking with Aerial and Ground Robots
+  <figcaption> Vision‑based Multi‑robot Target Tracking with Aerial and Ground Robots
 </figcaption>
 </figure>
 
-• **Goal** was to integrate a vision‑based system on a quadrotor and a rover, and develop algorithms to track another moving quadrotor outdoors.
-• **Designed** a novel approach for Occlusion Avoidance by Mathematical Modelling, surveyed literature for learning approaches in tracking, and
+• Goal was to integrate a vision‑based system on a quadrotor and a rover, and develop algorithms to track another moving quadrotor outdoors.
+• Designed a novel approach for Occlusion Avoidance by Mathematical Modelling, surveyed literature for learning approaches in tracking, and
 benchmarked Convolutional Neural Networks with PC configurations, CPU and GPUs.
 [Video3](https://youtu.be/o_03c37iEzY)
 
-## ROS Project: Autonomous Navigation and Tag Detection for IoT Applications
+
+# ROS Project: Autonomous Navigation and Tag Detection for IoT Applications
 
 <figure>
   <img src="/assets/images/ros2.png" width="1000px" alt="">
@@ -63,9 +67,9 @@ benchmarked Convolutional Neural Networks with PC configurations, CPU and GPUs.
 </figcaption>
 </figure>
 
-**Requirements:** Turtlebot with mounted Kinect connected to Workstation, NodeMCU(Wifi Module), LED for ON/OFF mounted on NodeMCU.  
+Requirements: Turtlebot with mounted Kinect connected to Workstation, NodeMCU(Wifi Module), LED for ON/OFF mounted on NodeMCU.  
 
-**Tasks:**
+Tasks:
 1. Navigate the Turtlebot and Building Map in the real world environment
 2. Use Saved Map for navigating to set positions. On launching from the workstation, turtlebot starts from a pre-defined initial position
 3. Move to Points P1. Read Augmented Reality (AR) Tag1. Then move to point P2 and read AR Tag2
@@ -73,10 +77,11 @@ benchmarked Convolutional Neural Networks with PC configurations, CPU and GPUs.
 5. Move to Point P4. Read QR code qr0 which lights OFF LED through another popup Webserver (IoT Application)
 6. Return Turtlebot to initial position after all the tasks are done.
 
-**Software Tools:** ROS, Python, Ubuntu 16.04, Kinetic Kame
+Software Tools: ROS, Python, Ubuntu 16.04, Kinetic Kame
 [Video4](https://www.youtube.com/watch?v=rtxCUmQBTSE)
 
-## Performance evaluation of Various QRS Detection Algorithms
+
+# Performance evaluation of Various QRS Detection Algorithms
 
 <figure>
   <img src="/assets/images/peovqda.png" width="1000px" alt="">
