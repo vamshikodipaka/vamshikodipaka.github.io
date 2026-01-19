@@ -29,5 +29,12 @@ My Personality: Roboticist, Visionary, Purpose-Driven, Innovative, Adaptive, Cat
 
 [Google Scholar](https://scholar.google.com/citations?user=ah_UH7QAAAAJ&hl=en&oi=ao), [Research Gate](https://www.researchgate.net/profile/Vamshi-Kodipaka)
 
+<figure>
+  <img src="/assets/images/mitss.webp" width="1000px" alt="">
+  <figcaption> Last time - Group photo with MIT colleagues 2024
+</figcaption>
+</figure>
+
+
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vamshikodipaka.vamshikodipaka.github.io" alt="visitor badge"/>
 
