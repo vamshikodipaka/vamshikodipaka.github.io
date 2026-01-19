@@ -21,7 +21,7 @@ My research lies at the intersection of deep learning, person detection, informa
 ## Navigation Systems for Search and Rescue with Drones - (2022-26)
 
 <figure>
-  <img src="/assets/images/nsfsrd.png" width="1000px" alt="">
+  <img src="/assets/images/nsfsrd.PNG" width="1000px" alt="">
   <figcaption> Navigation Systems for Search and Rescue with Drones
 </figcaption>
 </figure>
@@ -37,7 +37,7 @@ My research lies at the intersection of deep learning, person detection, informa
 ## Safety, Exploration and Maintenance of Forests with Ecological Robotics (SEMFIRE) - 2022
 
 <figure>
-  <img src="/assets/images/semfire.png" width="900px" alt="">
+  <img src="/assets/images/semfire.png" width="1000px" alt="">
   <figcaption>Dynamic Entity Tracking with Multispectral Images in Forestry Environments
 </figcaption>
 </figure>
@@ -86,7 +86,7 @@ Software Tools: ROS, Python, Ubuntu 16.04, Kinetic Kame
 ## Performance evaluation of Various QRS Detection Algorithms
 
 <figure>
-  <img src="/assets/images/peovqda.png" width="900px" alt="">
+  <img src="/assets/images/peovqda.PNG" width="1000px" alt="">
   <figcaption> Performance evaluation of Various QRS Detection Algorithms
 </figcaption>
 </figure>
