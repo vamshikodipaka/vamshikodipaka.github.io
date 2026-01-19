@@ -25,3 +25,5 @@ I worked as a Research Fellow at University of Coimbra, this fellowship was advi
 
 My Personality: Roboticist, Visionary, Purpose-Driven, Innovative, Adaptive, Catalytic and Empathic
 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=vamshikodipaka.vamshikodipaka.github.io" alt="visitor badge"/>
+
