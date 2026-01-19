@@ -25,6 +25,8 @@ I was a Summer Trainee for [Marine Robotics Summer School 2024](https://mitportu
 
 My Personality: Roboticist, Visionary, Purpose-Driven, Innovative, Adaptive, Catalytic and Empathic
 
+[Google Scholar](https://scholar.google.com/citations?user=ah_UH7QAAAAJ&hl=en&oi=ao), [Research Gate](https://www.researchgate.net/profile/Vamshi-Kodipaka)
+
 Follow me for more updates!
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vamshikodipaka.vamshikodipaka.github.io" alt="visitor badge"/>
