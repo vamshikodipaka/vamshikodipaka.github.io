@@ -30,7 +30,7 @@ permalink: /gallery/
 
 <figure>
   <img src="/assets/images/mscv4.jpg" width="500px" alt="">
-  <figcaption> French group dinner at Carrefour 2020 - 2
+  <figcaption> French Christmas party 2019
 </figcaption>
 </figure>
 
