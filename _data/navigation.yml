@@ -8,5 +8,5 @@ main:
     url: /publications/
   - title: "CV" 
     url: /CV/
-- title: "Gallery" 
+  - title: "Gallery" 
     url: /gallery/
