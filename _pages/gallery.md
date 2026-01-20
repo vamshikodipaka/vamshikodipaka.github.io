@@ -27,7 +27,7 @@ author_profile: true
 
 ## B.Tech Photos
 
-<img src="/assets/images/10eie.jpg" width="500px" alt="Vamshi Kodipaka" align="right" style="margin-left: 40px; margin-bottom: 10px;" />
+<img src="/assets/images/10eie.jpg" width="400px" alt="Vamshi Kodipaka" align="right" style="margin-left: 40px; margin-bottom: 10px;" />
 
 <figure>
   <img src="/assets/images/b1.jpeg" width="1000px" alt="">
