@@ -16,14 +16,14 @@ permalink: /gallery/
 
 <figure>
   <img src="/assets/images/mscv1.jpg" width="500px" alt="">
-  <figcaption> Friends dinner at Acacias 2020
+  <figcaption> MSCV group dinner at Carrefour 2020 - 2
 </figcaption>
 </figure>
 
 
 <figure>
   <img src="/assets/images/mscv2.jpg" width="500px" alt="">
-  <figcaption> MSCV group dinner at Carrefour 2020 - 2
+  <figcaption> Friends dinner at Acacias 2020
 </figcaption>
 </figure>
 
