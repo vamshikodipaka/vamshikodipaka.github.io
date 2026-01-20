@@ -16,7 +16,7 @@ permalink: /gallery/
 
 <figure>
   <img src="/assets/images/mscv1.jpg" width="500px" alt="">
-  <figcaption> MSCV group dinner at Carrefour 2020 - 2
+  <figcaption> French group lunch at Carrefour 2020 - 2
 </figcaption>
 </figure>
 
