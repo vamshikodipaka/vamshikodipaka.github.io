@@ -66,6 +66,6 @@ permalink: /gallery/
 
 <figure>
   <img src="/assets/images/10eie.jpg" width="300px" alt="">
-  <figcaption> On Sumshodini Workshop 2016
+  <figcaption> On Sumshodini Workshop Day 2016
 </figcaption>
 </figure>
