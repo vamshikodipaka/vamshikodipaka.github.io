@@ -14,7 +14,7 @@ My research lies at the intersection of deep learning, person detection, informa
 - Navigation Systems for Search and Rescue with Drones 
 - Safety, Exploration and Maintenance of Forests with Ecological Robotics (SEMFIRE)
 - Control of Multi‑Robot Systems for Observing Dynamical Phenomena (MuRoPhen)
-- Vision‑based Multi‑robot Target Tracking with Aerial and Ground Robots
+- ROS Project: Autonomous Navigation and Tag Detection for IoT Applications
 - Performance evaluation of Various QRS Detection Algorithms
 
 
