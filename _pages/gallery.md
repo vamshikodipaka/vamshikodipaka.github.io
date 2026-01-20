@@ -27,6 +27,14 @@ permalink: /gallery/
 </figcaption>
 </figure>
 
+
+<figure>
+  <img src="/assets/images/mscv4.jpg" width="500px" alt="">
+  <figcaption> French group dinner at Carrefour 2020 - 2
+</figcaption>
+</figure>
+
+
 ## B.Tech Photos
 
 <figure>
