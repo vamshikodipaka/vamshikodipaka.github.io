@@ -9,7 +9,7 @@ permalink: /gallery/
 
 <figure>
   <img src="/assets/images/phd1.jpg" width="500px" alt="">
-  <figcaption> Portuguese lunch at Wok 2022 - 1
+  <figcaption> Portuguese lunch at Wok 2022
 </figcaption>
 </figure>
 
