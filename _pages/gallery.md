@@ -9,14 +9,14 @@ permalink: /gallery/
 
 <figure>
   <img src="/assets/images/phd1.jpg" width="500px" alt="">
-  <figcaption> French group dinner at Carrefour 2020 - 1
+  <figcaption> Portuguese lunch at Wok 2022 - 1
 </figcaption>
 </figure>
 
 
 <figure>
   <img src="/assets/images/phd2.webp" width="500px" alt="">
-  <figcaption> French group lunch at Carrefour 2020 - 2
+  <figcaption> Holi Festival of colours with Portuguese Colleagues 2023
 </figcaption>
 </figure>
 
