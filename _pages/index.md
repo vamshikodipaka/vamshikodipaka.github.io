@@ -6,7 +6,11 @@ permalink: /
 author_profile: true
 ---
 
-<img src="/assets/images/photovamshi.PNG" width="340px" alt="Vamshi Kodipaka" align="right" style="margin-left: 40px; margin-bottom: 10px;" />
+<figure>
+  <img src="/assets/images/photovamshi.PNG" width="340px" alt="Vamshi Kodipaka" align="right" style="margin-left: 40px; margin-bottom: 10px;" />
+  <figcaption> Photoshot in France, 2018 
+</figcaption>
+</figure>
 
 # About
 
