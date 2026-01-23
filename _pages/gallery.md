@@ -5,6 +5,21 @@ sitemap: true
 author_profile: true
 permalink: /gallery/
 ---
+## Ph.D. Photos
+
+<figure>
+  <img src="/assets/images/phd1.jpg" width="500px" alt="">
+  <figcaption> French group dinner at Carrefour 2020 - 1
+</figcaption>
+</figure>
+
+
+<figure>
+  <img src="/assets/images/phd2.webp" width="500px" alt="">
+  <figcaption> French group lunch at Carrefour 2020 - 2
+</figcaption>
+</figure>
+
 ## M.Sc. Photos
 
 <figure>
