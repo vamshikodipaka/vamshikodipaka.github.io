@@ -21,13 +21,6 @@ permalink: /gallery/
 </figure>
 
 
-<figure>
-  <img src="/assets/images/phd3.jpg" width="500px" alt="">
-  <figcaption> Holi - Festival of Colours with Portuguese Colleagues 2023 - 2
-</figcaption>
-</figure>
-
-
 ## M.Sc. Photos
 
 <figure>
