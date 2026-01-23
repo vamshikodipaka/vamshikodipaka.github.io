@@ -82,7 +82,7 @@ permalink: /gallery/
 
 <figure>
   <img src="/assets/images/b5.jpeg" width="500px" alt="">
-  <figcaption> On Job Placement Days
+  <figcaption> On Job Placement Days 2016
 </figcaption>
 </figure>
 
