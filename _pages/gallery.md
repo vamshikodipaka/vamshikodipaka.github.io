@@ -16,7 +16,7 @@ permalink: /gallery/
 
 <figure>
   <img src="/assets/images/phd2.jpg" width="500px" alt="">
-  <figcaption> Holi - Festival of Colours with Portuguese Colleagues 2023 -2
+  <figcaption> Holi - Festival of Colours with Portuguese Colleagues 2023 
 </figcaption>
 </figure>
 
