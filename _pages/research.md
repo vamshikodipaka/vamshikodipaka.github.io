@@ -66,8 +66,8 @@ My research lies at the intersection of deep learning, person detection, informa
 
 • Goal was to integrate a vision‑based system on a quadrotor and a rover, and develop algorithms to track another moving quadrotor outdoors.
 
-• Designed a novel approach for Occlusion Avoidance by Mathematical Modelling, surveyed literature for learning approaches in tracking, and
-benchmarked Convolutional Neural Networks with PC configurations, CPU and GPUs.
+• Designed a novel approach for Occlusion Avoidance (Time for Occlusion) by Mathematical Modelling, surveyed literature for learning approaches in tracking, and
+benchmarked Convolutional Neural Networks for Object Detection (Deep Learning) with various PC configurations, CPU and GPUs.
 
 [Video3](https://youtu.be/o_03c37iEzY)
 
