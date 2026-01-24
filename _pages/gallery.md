@@ -96,9 +96,9 @@ permalink: /gallery/
 
 
 <figure>
-  <img src="/assets/images/b6.JPEG" width="300px" alt="">
+  <img src="/assets/images/b6.jpeg" width="300px" alt="">
   <figcaption> On Programming in C Workshop Days 2013
 </figcaption>
 </figure>
 
-  <img src="/assets/images/10eie.jpg" width="340px" alt="Vamshi Kodipaka" align="right" style="margin-left: 40px; margin-bottom: 10px;" /> <img src="/assets/images/b6.JPEG" width="340px" alt="Vamshi Kodipaka" align="left" style="margin-left: 40px; margin-bottom: 10px;" />
+  <img src="/assets/images/10eie.jpg" width="340px" alt="Vamshi Kodipaka" align="right" style="margin-left: 40px; margin-bottom: 10px;" /> <img src="/assets/images/b6.jpeg" width="340px" alt="Vamshi Kodipaka" align="left" style="margin-left: 40px; margin-bottom: 10px;" />
