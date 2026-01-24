@@ -89,10 +89,8 @@ permalink: /gallery/
 
 
 <figure>
-  <img src="/assets/images/b6.jpeg" width="300px" alt="">
-
   <img src="/assets/images/10eie.jpg" width="440px" alt="Vamshi Kodipaka" align="right" style="margin-left: 40px; margin-bottom: 10px;" /> <img src="/assets/images/b6.jpeg" width="440px" alt="Vamshi Kodipaka" align="left" style="margin-left: 40px; margin-bottom: 10px;" />
-
+<br>
   <figcaption> On Sumshodini Workshop Day 2016 (left) and on Programming in C Workshop Days 2013 (right)
 </figcaption>
 </figure>
