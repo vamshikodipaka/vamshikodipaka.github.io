@@ -26,11 +26,11 @@ Experienced in 3 National Projects specializing in the fields of Computer Vision
 I was a Summer Trainee for [Marine Robotics Summer School 2024](https://mitportugal.org/activity/2024-marine-robotics-summer-school/), organized by [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/), USA & [MIT Portugal](https://mitportugal.org/) that took place in Azores Islands, Portugal. I worked as a Research Fellow at UC, this fellowship was advised by [Prof. David Portugal](https://www.isr.uc.pt/index.php/people?task=showpeople.show%28%29&idPerson=8) and [Prof. Joao Ferreira](https://www.isr.uc.pt/index.php/people?task=showpeople.show%28%29&idPerson=5). Prior to joining UC, I obtained a M.Sc. degree in Computer Vision in the Erasmus [VIsion and RoBOTics](https://www.vibot.org/) (VIBOT) program at the [Université de Bourgogne (UB)](https://www.ube.fr/en/home/), France. I was a [TS MJBP OBC Overseas Scholar](https://telanganaepass.cgg.gov.in/OverseasLinks.do). My master thesis was advised by [Prof. Antonio Franchi](https://people.utwente.nl/a.franchi) and [Prof. Daniel Sidobre](https://www.laas.fr/fr/annuaire/181) within [RIS Team](https://www.laas.fr/en/teams/ris/) at [Laboratory for Analysis and Architecture of Systems (LAAS-CNRS)](https://www.laas.fr/en/), Toulouse, France. I received a B.Tech. degree in [Electronics and Instrumentation Engineering (EIE)](https://www.kitsw.ac.in/departments/EI/home.html) at Kakatiya University (KU), Warangal, India. 
 
 My Personality: Roboticist, Visionary, Purpose-Driven, Innovative, Adaptive, Catalytic and Empathic
-<br>
+
 7 research papers are under review. Follow me for more updates!
-<br>
+
 [Google Scholar](https://scholar.google.com/citations?user=ah_UH7QAAAAJ&hl=en&oi=ao), [Research Gate](https://www.researchgate.net/profile/Vamshi-Kodipaka)
-<br>
+
 
 <figure>
   <img src="/assets/images/mitss.webp" width="1000px" alt="">
