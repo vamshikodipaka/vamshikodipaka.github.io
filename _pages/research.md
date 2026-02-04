@@ -91,6 +91,7 @@ Tasks:
 6. Return Turtlebot to initial position after all the tasks are done.
 
 Software Tools: ROS, Python, Ubuntu 16.04, Kinetic Kame
+
 [Video4](https://www.youtube.com/watch?v=rtxCUmQBTSE)
 
 
@@ -103,4 +104,5 @@ Software Tools: ROS, Python, Ubuntu 16.04, Kinetic Kame
 </figure>
 
 Biomedical signals contain characteristic patterns associated with physiological events, known as epochs, whose identification and analysis are essential for monitoring and diagnosis. In electrocardiography (ECG), a non-stationary bioelectrical signal that records the heart’s electrical activity over time, detecting such events is crucial for identifying arrhythmias—irregular heart rhythms that may be benign or indicate serious conditions such as stroke or sudden cardiac death. Because arrhythmias can occur unpredictably, automatic ECG-based arrhythmia classification is especially important in clinical cardiology and intensive care. In this work, ECG signals from the MIT-BIH Arrhythmia Database are preprocessed using established algorithms for noise removal and feature extraction, and a MATLAB-based simulation tool is implemented to detect ECG abnormalities. Efficient computerized signal-processing techniques enable accurate analysis and characterization of ECG signals, with future research extending to real-time transmission and reception of ECG data using DSP processors or wireless technologies such as Bluetooth or ZigBee to improve accessibility and reliability.
+
 [Video5](https://www.youtube.com/watch?v=9EPpOsKq2hE)
