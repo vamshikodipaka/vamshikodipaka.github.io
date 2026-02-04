@@ -49,6 +49,9 @@ Current Location:
 <br>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.824306977086!2d-8.421341588449097!3d40.19072326924497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd22f9be047ed7c5%3A0x8cc193c1df4529cb!2sR.%20Te%C3%B3filo%20Braga%2045%2C%203030-194%20Coimbra!5e0!3m2!1sen!2spt!4v1770182262928!5m2!1sen!2spt" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+<iframe src="https://free.timeanddate.com/clock/ia9u61en/n320/fs48/bo3/tt0/tm3/td2/th2/ta1/tb4" frameborder="0" width="520" height="114"></iframe>
+
+
 <br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vamshikodipaka.vamshikodipaka.github.io" alt="visitor badge"/>
 
