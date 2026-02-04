@@ -41,7 +41,7 @@ My Personality: Roboticist, Visionary, Purpose-Driven, Innovative, Adaptive, Cat
 <br>
 Date and Time: 
 <br>
-<div class="thetimenow-embeddable-clock" data-type="clock" data-font-color="#000000" data-border-color="#000000" data-background-color="#ffffff" data-font-size="60" data-location-type="city" data-location-id="74284" > <a href="https://pt.thetimenow.com/portugal/lisbon" rel="nofollow" target="_blank">© The Time Now</a> </div>
+<div class="thetimenow-embeddable-clock" data-type="clock" data-font-color="#000000" data-border-color="#000000" data-background-color="#ffffff" data-font-size="60" data-location-type="city" data-location-id="74284" > <a href="https://pt.thetimenow.com/portugal/lisbon" rel="nofollow" target="_blank">The Time Now</a> </div>
 <script type="text/javascript" src="https://pt.thetimenow.com/ttn-embed.min.js"></script>
 
 <br><br>
