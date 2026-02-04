@@ -26,20 +26,23 @@ Experienced in 3 National Projects specializing in the fields of Computer Vision
 I was a Summer Trainee for [Marine Robotics Summer School 2024](https://mitportugal.org/activity/2024-marine-robotics-summer-school/), organized by [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/), USA & [MIT Portugal](https://mitportugal.org/) that took place in Azores Islands, Portugal. I worked as a Research Fellow at UC, this fellowship was advised by [Prof. David Portugal](https://www.isr.uc.pt/index.php/people?task=showpeople.show%28%29&idPerson=8) and [Prof. Joao Ferreira](https://www.isr.uc.pt/index.php/people?task=showpeople.show%28%29&idPerson=5). Prior to joining UC, I obtained a M.Sc. degree in Computer Vision in the Erasmus [VIsion and RoBOTics](https://www.vibot.org/) (VIBOT) program at the [Université de Bourgogne (UB)](https://www.ube.fr/en/home/), France. I was a [TS MJBP OBC Overseas Scholar](https://telanganaepass.cgg.gov.in/OverseasLinks.do). My master thesis was advised by [Prof. Antonio Franchi](https://people.utwente.nl/a.franchi) and [Prof. Daniel Sidobre](https://www.laas.fr/fr/annuaire/181) within [RIS Team](https://www.laas.fr/en/teams/ris/) at [Laboratory for Analysis and Architecture of Systems (LAAS-CNRS)](https://www.laas.fr/en/), Toulouse, France. I received a B.Tech. degree in [Electronics and Instrumentation Engineering (EIE)](https://www.kitsw.ac.in/departments/EI/home.html) at Kakatiya University (KU), Warangal, India. 
 
 My Personality: Roboticist, Visionary, Purpose-Driven, Innovative, Adaptive, Catalytic and Empathic
-
+<br>
 7 research papers are under review. Follow me for more updates!
-
+<br>
 [Google Scholar](https://scholar.google.com/citations?user=ah_UH7QAAAAJ&hl=en&oi=ao), [Research Gate](https://www.researchgate.net/profile/Vamshi-Kodipaka)
+<br>
 
 <figure>
   <img src="/assets/images/mitss.webp" width="1000px" alt="">
   <figcaption> Last time in Media - Group photo with 24 MIT + Portuguese colleagues 2024
 </figcaption>
-
+  
+<br><br>
 Current Location:
+<br>
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.824306977086!2d-8.421341588449097!3d40.19072326924497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd22f9be047ed7c5%3A0x8cc193c1df4529cb!2sR.%20Te%C3%B3filo%20Braga%2045%2C%203030-194%20Coimbra!5e0!3m2!1sen!2spt!4v1770182262928!5m2!1sen!2spt" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </figure>
 
-
+<br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vamshikodipaka.vamshikodipaka.github.io" alt="visitor badge"/>
 
