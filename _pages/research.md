@@ -1,108 +1,258 @@
 ---
-title: "Research"
+title: "Blog"
 layout: single
 sitemap: true
-permalink: /research/
+permalink: /blog/
 author_profile: true
 toc: true
-toc_label: "Research"
+toc_label: "Blog"
 toc_icon: "gear"
 toc_sticky: true
 ---
 
-My research lies at the intersection of deep learning, person detection, informative path planning, drones, search and rescue. Current and past research projects include:
-- Navigation Systems for Search and Rescue with Drones 
-- Safety, Exploration and Maintenance of Forests with Ecological Robotics (SEMFIRE)
-- Control of Multi‑Robot Systems for Observing Dynamical Phenomena (MuRoPhen)
-- ROS Project: Autonomous Navigation and Tag Detection for IoT Applications
-- Performance evaluation of Various QRS Detection Algorithms
+# The Biggest Unsolved Problems in AI (2026)
+## From Foundation Models to Embodied Vision–Language Systems
+## Big-Picture Insight (2026)
 
+By 2026, AI’s core limitation is not capability generation but capability reliability.
+Modern models can generate fluent language, recognize objects, and imitate reasoning—but they cannot reliably reason, ground, generalize, or act under real-world uncertainty, especially in long-horizon, safety-critical, embodied settings such as robotics, drones, and search & rescue (SAR).
 
-## Navigation Systems for Search and Rescue with Drones - (2022-26)
+## 1️⃣ Reliable Reasoning (Still Fundamentally Unsolved)
+The Problem
 
-<figure>
-  <img src="/assets/images/nsfsrd.PNG" width="1000px" alt="">
-  <figcaption> Navigation Systems for Search and Rescue with Drones
-</figcaption>
-</figure>
+Models reason plausibly, not correctly
 
-• Goal is to develop and integrate the novel informative planning and detection system for drone‑based missing person searches in the wilderness.
+Long-horizon tasks silently degrade
 
-• Proposed hybrid YOLO‑Transformers and Retention, achieved the robustness over 30% for tiny and small aerial person detection.
+Confidence is poorly correlated with correctness
 
-• Working on UAV informative path planning approaches for effective search, deployment on ROS + NVIDIA Jetson with field experiments. 
+Why This Persists
 
-[Video1](https://youtu.be/wa7ZPiVeVA8)
+Optimization targets likelihood, not truth
 
+No internal notion of proof, causality, or epistemic uncertainty
 
-## Safety, Exploration and Maintenance of Forests with Ecological Robotics (SEMFIRE) - 2022
+Unsolved Aspects
 
-<figure>
-  <img src="/assets/images/semfire.png" width="1000px" alt="">
-  <figcaption>Dynamic Entity Tracking with Multispectral Images in Forestry Environments
-</figcaption>
-</figure>
+Long-horizon, multi-step reasoning
 
-• Goal was to develop artificial perception mechanisms supporting forestry ground robotic operations for land maintenance and clearance.
+Self-verification and error detection
 
-• Extended work to 2D Dynamic Entity Tracking with Multispectral Images to dockers, dataset labelling, and Stereo‑3D‑Reconstruction in ROS. 
+Knowing when not to answer or act
 
-[Video2](https://youtu.be/IQaL3qS-bVM)
+SAR / Robotics Implication
 
+A drone that reasons plausibly but incorrectly can waste hours of search time or mislead human operators.
 
-## Control of Multi‑Robot Systems for Observing Dynamical Phenomena (MuRoPhen) - 2020
+## 2️⃣ Hallucination & Truthfulness
+The Problem
 
-<figure>
-  <img src="/assets/images/oadltracking.jpeg" width="1000px" alt="">
-  <figcaption> Vision‑based Multi‑robot Target Tracking with Aerial and Ground Robots - 1
-</figcaption>
-</figure>
+Fabricated facts, citations, detections, or explanations
 
-<figure>
-  <img src="/assets/images/detection.jpg" width="1000px" alt="">
-  <figcaption> Vision‑based Multi‑robot Target Tracking with Aerial and Ground Robots - 2
-</figcaption>
-</figure>
+Especially dangerous in medicine, law, robotics, and SAR
 
-• Goal was to integrate a vision‑based system on a pair of quadrotor and a rover, and develop algorithms to let them track another moving quadrotor outdoors.
+Unsolved Aspects
 
-• Designed a novel approach for Occlusion Avoidance (Time for Occlusion) by Mathematical Modelling, surveyed literature for learning approaches in tracking, and
-benchmarked Convolutional Neural Networks for Object Detection (Deep Learning) with various PC configurations, CPU and GPUs.
+Evidence-bound generation
 
-[Video3](https://youtu.be/o_03c37iEzY)
+Faithful uncertainty reporting
 
+Reliable grounding in sensor data and external reality
 
-## ROS Project: Autonomous Navigation and Tag Detection for IoT Applications - 2019
+SAR Context
 
-<figure>
-  <img src="/assets/images/ros2.png" width="1000px" alt="">
-  <figcaption> Autonomous Navigation and Tag Detection for IoT Applications
-</figcaption>
-</figure>
+In high-stakes missions, silence or uncertainty is safer than confident hallucination.
 
-Requirements: Turtlebot with mounted Kinect connected to Workstation, NodeMCU(Wifi Module), LED for ON/OFF mounted on NodeMCU.  
+## 3️⃣ Grounding in the Real World
+The Problem
 
-Tasks:
-1. Navigate the Turtlebot and Building Map in the real world environment
-2. Use Saved Map for navigating to set positions. On launching from the workstation, turtlebot starts from a pre-defined initial position
-3. Move to Points P1. Read Augmented Reality (AR) Tag1. Then move to point P2 and read AR Tag2
-4. Move to Point P3. Read QR code qr1 which lights LED ON through a popup Webserver (IoT Application)
-5. Move to Point P4. Read QR code qr0 which lights OFF LED through another popup Webserver (IoT Application)
-6. Return Turtlebot to initial position after all the tasks are done.
+Models talk about the world without truly understanding it
 
-Software Tools: ROS, Python, Ubuntu 16.04, Kinetic Kame
+Weak coupling between language, perception, memory, and action
 
-[Video4](https://www.youtube.com/watch?v=rtxCUmQBTSE)
+Unsolved Aspects
 
+Grounded semantics
 
-## Performance evaluation of Various QRS Detection Algorithms - 2016
+Spatial, temporal, and physical reasoning
 
-<figure>
-  <img src="/assets/images/peovqda.PNG" width="1000px" alt="">
-  <figcaption> Performance evaluation of Various QRS Detection Algorithms
-</figcaption>
-</figure>
+Embodied understanding
 
-Biomedical signals contain characteristic patterns associated with physiological events, known as epochs, whose identification and analysis are essential for monitoring and diagnosis. In electrocardiography (ECG), a non-stationary bioelectrical signal that records the heart’s electrical activity over time, detecting such events is crucial for identifying arrhythmias—irregular heart rhythms that may be benign or indicate serious conditions such as stroke or sudden cardiac death. Because arrhythmias can occur unpredictably, automatic ECG-based arrhythmia classification is especially important in clinical cardiology and intensive care. In this work, ECG signals from the MIT-BIH Arrhythmia Database are preprocessed using established algorithms for noise removal and feature extraction, and a MATLAB-based simulation tool is implemented to detect ECG abnormalities. Efficient computerized signal-processing techniques enable accurate analysis and characterization of ECG signals, with future research extending to real-time transmission and reception of ECG data using DSP processors or wireless technologies such as Bluetooth or ZigBee to improve accessibility and reliability.
+Robotics / SAR Context
 
-[Video5](https://www.youtube.com/watch?v=9EPpOsKq2hE)
+Understanding “search near the river” requires spatial memory, terrain reasoning, and uncertainty awareness, not just language parsing.
+
+## 4️⃣ Generalization Beyond Training Distributions
+The Problem
+
+Small distribution shifts cause failure
+
+Models rely on spurious correlations
+
+Unsolved Aspects
+
+Out-of-distribution robustness
+
+Causal generalization
+
+Learning invariant structure
+
+Vision & SAR Context
+
+Fog, smoke, snow, dense foliage, and disaster-specific conditions routinely break vision systems.
+
+## 5️⃣ Long-Term Memory & Lifelong Learning
+The Problem
+
+Models forget when updated
+
+No persistent, evolving belief state
+
+Unsolved Aspects
+
+Replay-free continual learning
+
+Editable and trustworthy memory
+
+Stable long-term knowledge integration
+
+SAR Context
+
+Missions last hours or days; systems must remember what has already been searched, what failed, and why.
+
+## 6️⃣ Evaluation That Reflects Reality
+The Problem
+
+Benchmarks are saturated
+
+Scores poorly predict deployment performance
+
+Unsolved Aspects
+
+Agent-based and interactive evaluation
+
+Long-duration, real-world testing
+
+Metrics for reasoning, safety, and trust
+
+SAR Context
+
+Image accuracy is irrelevant if mission success, coverage, and false-alarm cost are ignored.
+
+## 7️⃣ Interpretability & Understanding Model Internals
+The Problem
+
+Models remain black boxes
+
+Explanations are post-hoc and often misleading
+
+Unsolved Aspects
+
+Mechanistic interpretability
+
+Causal understanding of internal representations
+
+Faithful explanations tied to actual decision processes
+
+Human–Robot Collaboration
+
+Operators need reasons they can trust, not fluent justifications.
+
+## 8️⃣ Alignment, Safety & Control
+The Problem
+
+Models optimize metrics, not intent
+
+Safety behaviors are inconsistent
+
+Values are hard to formalize
+
+Unsolved Aspects
+
+Robust objective specification
+
+Value learning over time
+
+Scalable oversight
+
+SAR Context
+
+Failure modes are physical and irreversible, not just informational.
+
+## 9️⃣ Data Limits & Synthetic Collapse
+The Problem
+
+High-quality human data is running out
+
+Synthetic data reinforces errors and bias
+
+Unsolved Aspects
+
+Active data acquisition
+
+Human–AI co-curation
+
+Learning with less data
+
+SAR Context
+
+Real SAR data is scarce; simulation-to-real gaps remain large.
+
+## 🔟 Energy, Cost & Sustainability
+The Problem
+
+Training and inference are expensive and carbon-heavy
+
+Access is centralized
+
+Unsolved Aspects
+
+Energy-efficient learning
+
+Adaptive computation
+
+Edge-capable intelligence
+
+Robotics Context
+
+Drones operate under strict power, latency, and bandwidth constraints.
+
+## 1️⃣1️⃣ Multimodal & Embodied Intelligence
+The Problem
+
+Vision, language, audio, and action are shallowly fused
+
+No unified internal world model
+
+Unsolved Aspects
+
+True multimodal representations
+
+Perception–action feedback loops
+
+Learning from interaction, not just data
+
+SAR Context
+
+The shift is from “describe what you see” to “decide what to do next.”
+
+## 1️⃣2️⃣ Trust, Governance & Societal Integration
+The Problem
+
+Unknown training data
+
+Regulatory lag
+
+Misuse and misinformation risks
+
+Unsolved Aspects
+
+Data provenance and auditability
+
+Governance aligned with technical reality
+
+Trustworthy deployment pipelines
+
+### Unifying Insight (2026)
+
+AI excels at generation, recognition, and imitation—but still fails at reliable understanding, reasoning, and action in open-ended, uncertain, real-world environments.
