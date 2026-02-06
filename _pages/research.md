@@ -33,12 +33,6 @@ My research lies at the intersection of deep learning, object detection, informa
 ## Multi-Object Tracking using Multispectral Images in Forestry Environments - SEMFIRE - 2022
 
 <figure>
-  <img src="/assets/images/hybrid_climate_modeling.png" width="1000px" alt="">
-  <figcaption>A hybrid climate model combines a traditional dynamical core with machine-learned parameterizations.
-</figcaption>
-</figure>
-
-<figure>
   <img src="/assets/images/semfire.png" width="1000px" alt="">
   <figcaption>Tracking Persons in the Forests using Multispectral Images
 </figcaption>
