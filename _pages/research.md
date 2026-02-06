@@ -10,13 +10,12 @@ toc_icon: "gear"
 toc_sticky: true
 ---
 
-My research lies at the intersection of physical oceanography, numerical modeling, and machine learning. Current and past research projects include:
-- Regional coupled physical-biogeochemical modeling
-- Integrating machine learning and ocean modeling
-- Ocean mesoscale eddies and their parameterizations
-- Adjoint modeling in the North Atlantic
-- Uncertainty quantification & observing system design
-- Development of open source software tools
+My research lies at the intersection of deep learning, object detection, informative path planning, drones, search and rescue. Current and past research projects include:
+- Navigation Systems for Search and Rescue with Drones (2022-26)
+- Multi-Object Tracking using Multispectral Images in Forestry Environments - SEMFIRE - 2022
+- Multiple Robots for Controlling and Observing Dynamical Phenomenon - MuRoPhen - 2020
+- Autonomous Navigation and Tag Detection for IoT Applications - 2019
+- Performance Evaluation of Various QRS Detection Algorithms - 2016
 
 ## Regional Coupled Physical-Biogeochemical Modeling
 
