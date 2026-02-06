@@ -21,18 +21,23 @@ Modern models can generate fluent language, recognize objects, and imitate reaso
 ### The Problem
 
 Models reason plausibly, not correctly
+
 Long-horizon tasks silently degrade
+
 Confidence is poorly correlated with correctness
 
 ### Why This Persists
 
 Optimization targets likelihood, not truth
+
 No internal notion of proof, causality, or epistemic uncertainty
 
 ### Unsolved Aspects
 
 Long-horizon, multi-step reasoning
+
 Self-verification and error detection
+
 Knowing when not to answer or act
 
 ### SAR / Robotics Implication
@@ -43,12 +48,15 @@ A drone that reasons plausibly but incorrectly can waste hours of search time or
 ### The Problem
 
 Fabricated facts, citations, detections, or explanations
+
 Especially dangerous in medicine, law, robotics, and SAR
 
 ### Unsolved Aspects
 
 Evidence-bound generation
+
 Faithful uncertainty reporting
+
 Reliable grounding in sensor data and external reality
 
 ### SAR Context
@@ -59,12 +67,15 @@ In high-stakes missions, silence or uncertainty is safer than confident hallucin
 ### The Problem
 
 Models talk about the world without truly understanding it
+
 Weak coupling between language, perception, memory, and action
 
 ### Unsolved Aspects
 
 Grounded semantics
+
 Spatial, temporal, and physical reasoning
+
 Embodied understanding
 
 ### Robotics / SAR Context
@@ -75,12 +86,15 @@ Understanding “search near the river” requires spatial memory, terrain reaso
 ### The Problem
 
 Small distribution shifts cause failure
+
 Models rely on spurious correlations
 
 ### Unsolved Aspects
 
 Out-of-distribution robustness
+
 Causal generalization
+
 Learning invariant structure
 
 ### Vision & SAR Context
@@ -91,12 +105,15 @@ Fog, smoke, snow, dense foliage, and disaster-specific conditions routinely brea
 ### The Problem
 
 Models forget when updated
+
 No persistent, evolving belief state
 
 ### Unsolved Aspects
 
 Replay-free continual learning
+
 Editable and trustworthy memory
+
 Stable long-term knowledge integration
 
 ### SAR Context
@@ -107,12 +124,15 @@ Missions last hours or days; systems must remember what has already been searche
 The Problem
 
 Benchmarks are saturated
+
 Scores poorly predict deployment performance
 
 ### Unsolved Aspects
 
 Agent-based and interactive evaluation
+
 Long-duration, real-world testing
+
 Metrics for reasoning, safety, and trust
 
 ### SAR Context
@@ -123,12 +143,15 @@ Image accuracy is irrelevant if mission success, coverage, and false-alarm cost 
 ### The Problem
 
 Models remain black boxes
+
 Explanations are post-hoc and often misleading
 
 ### Unsolved Aspects
 
 Mechanistic interpretability
+
 Causal understanding of internal representations
+
 Faithful explanations tied to actual decision processes
 
 ### Human–Robot Collaboration
@@ -139,13 +162,17 @@ Operators need reasons they can trust, not fluent justifications.
 ### The Problem
 
 Models optimize metrics, not intent
+
 Safety behaviors are inconsistent
+
 Values are hard to formalize
 
 ### Unsolved Aspects
 
 Robust objective specification
+
 Value learning over time
+
 Scalable oversight
 
 ### SAR Context
@@ -156,12 +183,15 @@ Failure modes are physical and irreversible, not just informational.
 The Problem
 
 High-quality human data is running out
+
 Synthetic data reinforces errors and bias
 
 ### Unsolved Aspects
 
 Active data acquisition
+
 Human–AI co-curation
+
 Learning with less data
 
 ### SAR Context
@@ -172,12 +202,15 @@ Real SAR data is scarce; simulation-to-real gaps remain large.
 ### The Problem
 
 Training and inference are expensive and carbon-heavy
+
 Access is centralized
 
 ### Unsolved Aspects
 
 Energy-efficient learning
+
 Adaptive computation
+
 Edge-capable intelligence
 
 ### Robotics Context
@@ -188,12 +221,15 @@ Drones operate under strict power, latency, and bandwidth constraints.
 ### The Problem
 
 Vision, language, audio, and action are shallowly fused
+
 No unified internal world model
 
 ### Unsolved Aspects
 
 True multimodal representations
+
 Perception–action feedback loops
+
 Learning from interaction, not just data
 
 ### SAR Context
@@ -204,13 +240,17 @@ The shift is from “describe what you see” to “decide what to do next.”
 ### The Problem
 
 Unknown training data
+
 Regulatory lag
+
 Misuse and misinformation risks
 
 ### Unsolved Aspects
 
 Data provenance and auditability
+
 Governance aligned with technical reality
+
 Trustworthy deployment pipelines
 
 ## Unifying Insight (2026)
