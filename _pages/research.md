@@ -30,6 +30,7 @@ My research lies at the intersection of deep learning, object detection, informa
 
 [Video-1](https://youtu.be/wa7ZPiVeVA8)
 
+
 ## Multi-Object Tracking using Multispectral Images in Forestry Environments - SEMFIRE - 2022
 
 <figure>
@@ -43,6 +44,7 @@ My research lies at the intersection of deep learning, object detection, informa
 * **Project:** Safety, Exploration and Maintenance of Forests with the Integration of Ecological Robotics (SemFire)
 
 [Video-2](https://youtu.be/IQaL3qS-bVM)
+
 
 ## Multiple Robots for Controlling and Observing Dynamical Phenomenon - MuRoPhen - 2020
 
@@ -63,6 +65,7 @@ My research lies at the intersection of deep learning, object detection, informa
 * **Project:** Control of Multi‑Robot Systems for Observing Dynamical Phenomena (MuRoPhen)
 
 [Video-3](https://youtu.be/o_03c37iEzY)
+
 
 ## Autonomous Navigation and Tag Detection for IoT Applications - 2019
 
@@ -85,6 +88,7 @@ My research lies at the intersection of deep learning, object detection, informa
 * **Software Tools:** ROS, Python, Ubuntu 16.04, Kinetic Kame
 
 [Video-4](https://youtu.be/rtxCUmQBTSE)
+
 
 ## Performance Evaluation of Various QRS Detection Algorithms - 2016
 
