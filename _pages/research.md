@@ -11,6 +11,7 @@ toc_sticky: true
 ---
 
 My research lies at the intersection of deep learning, object detection, informative path planning, drones, search and rescue. Current and past research projects include:
+
 - Navigation Systems for Search and Rescue with Drones (2022-26)
 - Multi-Object Tracking using Multispectral Images in Forestry Environments - SEMFIRE - 2022
 - Multiple Robots for Controlling and Observing Dynamical Phenomenon - MuRoPhen - 2020
@@ -24,9 +25,9 @@ My research lies at the intersection of deep learning, object detection, informa
   <figcaption>Person Detection in Drone-based Search and Rescue in Forest Environments
 </figure>
 
-* **Goal** is to develop and integrate the novel informative planning and detection system for drone‑based missing person searches in the wilderness.
-* **Proposed** hybrid YOLO‑Transformers and Retention, achieved the robustness over 30% for tiny and small aerial person detection.
-* **Working** on UAV informative path planning approaches for effective search, deployment on ROS + NVIDIA Jetson with field experiments.
+- Goal is to develop and integrate the novel informative planning and detection system for drone‑based missing person searches in the wilderness.
+- Proposed hybrid YOLO‑Transformers and Retention, achieved the robustness over 30% for tiny and small aerial person detection.
+- Working on UAV informative path planning approaches for effective search, deployment on ROS + NVIDIA Jetson with field experiments.
 
 [Video-1](https://youtu.be/wa7ZPiVeVA8)
 
@@ -39,9 +40,9 @@ My research lies at the intersection of deep learning, object detection, informa
 </figcaption>
 </figure>
 
-* **Goal** was to develop artificial perception mechanisms supporting forestry ground robotic operations for land maintenance and clearance.
-* **Extended** work to 2D Dynamic Entity Tracking with Multispectral Images to dockers, dataset labelling, and Stereo‑3D‑Reconstruction in ROS.
-* **Project:** Safety, Exploration and Maintenance of Forests with the Integration of Ecological Robotics (SemFire)
+- Goal was to develop artificial perception mechanisms supporting forestry ground robotic operations for land maintenance and clearance.
+- Extended work to 2D Dynamic Entity Tracking with Multispectral Images to dockers, dataset labelling, and Stereo‑3D‑Reconstruction in ROS.
+- Project: Safety, Exploration and Maintenance of Forests with the Integration of Ecological Robotics (SemFire)
 
 [Video-2](https://youtu.be/IQaL3qS-bVM)
 
@@ -60,9 +61,9 @@ My research lies at the intersection of deep learning, object detection, informa
 </figcaption>
 </figure>
 
-* **Goal** was to integrate a vision‑based system on a pair of quadrotor and a rover, and develop algorithms to track another moving quadrotor outdoors.
-* **Designed** a novel approach for Occlusion Avoidance by Mathematical Modelling, surveyed literature for learning approaches in tracking, and benchmarked Convolutional Neural Networks with two PC configurations, CPU and GPUs.
-* **Project:** Control of Multi‑Robot Systems for Observing Dynamical Phenomena (MuRoPhen)
+- Goal was to integrate a vision‑based system on a pair of quadrotor and a rover, and develop algorithms to track another moving quadrotor outdoors.
+- Designed a novel approach for Occlusion Avoidance by Mathematical Modelling, surveyed literature for learning approaches in tracking, and benchmarked Convolutional Neural Networks with two PC configurations, CPU and GPUs.
+- Project: Control of Multi‑Robot Systems for Observing Dynamical Phenomena (MuRoPhen)
 
 [Video-3](https://youtu.be/o_03c37iEzY)
 
@@ -75,17 +76,11 @@ My research lies at the intersection of deep learning, object detection, informa
 </figcaption>
 </figure>
 
-* **Requirements:** Turtlebot with mounted Kinect connected to Workstation, NodeMCU(Wifi Module), LED for ON/OFF mounted on NodeMCU. 
+- Requirements: Turtlebot with mounted Kinect connected to Workstation, NodeMCU(Wifi Module), LED for ON/OFF mounted on NodeMCU. 
 
-* **Tasks:** 
-* **1.** Navigate the Turtlebot and Building Map in the real world environment
-* **2.** Use Saved Map for navigating to set positions. On launching from the workstation, turtlebot starts from a pre-defined initial position
-* **3.** Move to Points P1. Read Augmented Reality (AR) Tag1. Then move to point P2 and read AR Tag2
-* **4.** Move to Point P3. Read QR code qr1 which lights LED ON through a popup Webserver (IoT Application)
-* **5.** Move to Point P4. Read QR code qr0 which lights OFF LED through another popup Webserver (IoT Application)
-* **6.** Return Turtlebot to initial position after all the tasks are done.
+- Tasks: Navigate the Turtlebot and Building Map in the real world environment. Use Saved Map for navigating to set positions. On launching from the workstation, turtlebot starts from a pre-defined initial position. Move to Points P1. Read Augmented Reality (AR) Tag1. Then move to point P2 and read AR Tag2. Move to Point P3. Read QR code qr1 which lights LED ON through a popup Webserver (IoT Application). Move to Point P4. Read QR code qr0 which lights OFF LED through another popup Webserver (IoT Application). Return Turtlebot to initial position after all the tasks are done.
 
-* **Software Tools:** ROS, Python, Ubuntu 16.04, Kinetic Kame
+- Software Tools: ROS, Python, Ubuntu 16.04, Kinetic Kame
 
 [Video-4](https://youtu.be/rtxCUmQBTSE)
 
