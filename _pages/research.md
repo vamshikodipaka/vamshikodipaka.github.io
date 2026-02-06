@@ -10,44 +10,40 @@ toc_icon: "gear"
 toc_sticky: true
 ---
 
-My research lies at the intersection of physical oceanography, numerical modeling, and machine learning. Current and past research projects include:
-- Regional coupled physical-biogeochemical modeling
-- Integrating machine learning and ocean modeling
-- Ocean mesoscale eddies and their parameterizations
-- Adjoint modeling in the North Atlantic
-- Uncertainty quantification & observing system design
-- Development of open source software tools
+My research lies at the intersection of deep learning, object detection, informative path planning, drones, search and rescue. Current and past research projects include:
+- Navigation Systems for Search and Rescue with Drones (2022-26)
+- Multi-Object Tracking using Multispectral Images in Forestry Environments - SEMFIRE - 2022
+- Multiple Robots for Controlling and Observing Dynamical Phenomenon - MuRoPhen - 2020
+- Autonomous Navigation and Tag Detection for IoT Applications - 2019
+- Performance Evaluation of Various QRS Detection Algorithms - 2016
 
-## Regional Coupled Physical-Biogeochemical Modeling
+## Navigation Systems for Search and Rescue with Drones (2022-26)
 
 <figure>
-  <img src="/assets/images/antitracer.png" width="1000px" alt="">
-  <figcaption>Tracer release experiment in a global Oceananigans.jl configuration, simulating the enhancement of ocean alkalinity between Thailand and Indonesia.
+  <img src="/assets/images/nsfsrd.PNG" width="1000px" alt="">
+  <figcaption>Person Detection in Drone-based Search and Rescue in Forest Environments
+</figure>
+
+* **Goal** is to develop and integrate the novel informative planning and detection system for drone‑based missing person searches in the wilderness.
+* **Proposed** hybrid YOLO‑Transformers and Retention, achieved the robustness over 30% for tiny and small aerial person detection.
+* **Working** on UAV informative path planning approaches for effective search, deployment on ROS + NVIDIA Jetson with field experiments.
+
+
+[Video-1](https://youtu.be/wa7ZPiVeVA8)
+
+## Multi-Object Tracking using Multispectral Images in Forestry Environments - SEMFIRE - 2022
+
+<figure>
+  <img src="/assets/images/semfire.png" width="1000px" alt="">
+  <figcaption>Tracking Persons in the Forests using Multispectral Images
 </figcaption>
 </figure>
 
-In my current role, I develop methods to improve the computational efficiency of simulating physical and biogeochemical ocean processes. At [C]Worthy, our goal is to quantify the carbon removal potential of climate intervention strategies such as ocean alkalinity enhancement and direct ocean capture. To reduce the high computational cost of running many individual climate intervention experiments, I am implementing and testing a technique that allows multiple intervention scenarios to be simulated within a single physical ocean model run, without the need for biogeochemistry. I carry out this work using ROMS-MARBL and Oceananigans.jl.
+* **Goal** was to integrate a vision‑based system on a pair of quadrotor and a rover, and develop algorithms to track another moving quadrotor outdoors.
+* **Designed** a novel approach for Occlusion Avoidance by Mathematical Modelling, surveyed literature for learning approaches in tracking, and benchmarked Convolutional Neural Networks with two PC configurations, CPU and GPUs.
+* **Project:** Control of Multi‑Robot Systems for Observing Dynamical Phenomena (MuRoPhen)
 
-## Integrating Machine Learning and Ocean Modeling
-
-<figure>
-  <img src="/assets/images/hybrid_climate_modeling.png" width="1000px" alt="">
-  <figcaption>A hybrid climate model combines a traditional dynamical core with machine-learned parameterizations.
-</figcaption>
-</figure>
-
-Integrating machine learning (ML) with ocean modeling offers a promising path to improving the accuracy and efficiency of ocean simulations, and plays a central role in emerging hybrid climate modeling approaches that combine physics-based and data-driven components. My work focuses on developing ML-based parameterizations for ocean physical processes, using both offline and online approaches:
-
-* **Offline learning:** ML models are trained on outputs from high-resolution simulations or observational datasets before being incorporated into the ocean model.
-* **Online learning:** ML models are trained dynamically during the simulation itself, requiring the ocean model to be differentiable.
-
-During my work with the [M2LInES Team](https://m2lines.github.io/), I focused on offline approaches to hybrid modeling. I began by diagnosing eddy fluxes from high-resolution MOM6 simulations using filtering and coarse-graining techniques. I then trained ML models on these offline datasets using PyTorch. To evaluate the model’s performance in an online setting, I integrated it into the MOM6 code base. 
-However, offline-learned parameterizations often encounter numerical instability when coupled with the full model, highlighting the potential advantages of online approaches.
-
-As part of the [DJ4Earth project](https://dj4earth.github.io/), I supervise students applying online learning techniques to improve ocean eddy parameterizations. In this approach, the machine-learned parameterization is trained alongside the simulation, requiring a differentiable ocean model with an adjoint. We implement this method using the ocean model Oceananigans, and train the ML models in Julia.
-
-Related publications: [Balwada, ..., Loose et al.](https://doi.org/10.21105/jose.00241), JOSE (2024);
-[Yu, ..., Loose et al.](https://proceedings.neurips.cc/paper_files/paper/2023/hash/45fbcc01349292f5e059a0b8b02c8c3f-Abstract-Datasets_and_Benchmarks.html), NeurIPS (2023)
+[Video-3](https://youtu.be/o_03c37iEzY)
 
 ## Ocean Mesoscale Eddies and their Parameterizations
 
