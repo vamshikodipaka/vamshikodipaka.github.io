@@ -75,7 +75,7 @@ My research lies at the intersection of deep learning, object detection, informa
 
 <figure>
   <img src="/assets/images/ros2.png" alt="">
-  <figcaption>  Turtlebot with mounted Kinect does Tag Detection and as connected to NodeMCU(Wifi Module) turns LED for ON/OFF 
+  <figcaption>  Turtlebot moves and detects Tags and turns LED ON/OFF through Wifi Module 
 </figcaption>
 </figure>
 
