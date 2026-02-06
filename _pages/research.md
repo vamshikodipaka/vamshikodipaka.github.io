@@ -17,7 +17,7 @@ My research lies at the intersection of deep learning, object detection, informa
 - Autonomous Navigation and Tag Detection for IoT Applications - 2019
 - Performance Evaluation of Various QRS Detection Algorithms - 2016
 
-## Regional Coupled Physical-Biogeochemical Modeling
+## Navigation Systems for Search and Rescue with Drones (2022-26)
 
 <figure>
   <img src="/assets/images/antitracer.png" width="1000px" alt="">
@@ -27,7 +27,7 @@ My research lies at the intersection of deep learning, object detection, informa
 
 In my current role, I develop methods to improve the computational efficiency of simulating physical and biogeochemical ocean processes. At [C]Worthy, our goal is to quantify the carbon removal potential of climate intervention strategies such as ocean alkalinity enhancement and direct ocean capture. To reduce the high computational cost of running many individual climate intervention experiments, I am implementing and testing a technique that allows multiple intervention scenarios to be simulated within a single physical ocean model run, without the need for biogeochemistry. I carry out this work using ROMS-MARBL and Oceananigans.jl.
 
-## Integrating Machine Learning and Ocean Modeling
+## Multi-Object Tracking using Multispectral Images in Forestry Environments - SEMFIRE - 2022
 
 <figure>
   <img src="/assets/images/hybrid_climate_modeling.png" width="1000px" alt="">
@@ -48,7 +48,7 @@ As part of the [DJ4Earth project](https://dj4earth.github.io/), I supervise stud
 Related publications: [Balwada, ..., Loose et al.](https://doi.org/10.21105/jose.00241), JOSE (2024);
 [Yu, ..., Loose et al.](https://proceedings.neurips.cc/paper_files/paper/2023/hash/45fbcc01349292f5e059a0b8b02c8c3f-Abstract-Datasets_and_Benchmarks.html), NeurIPS (2023)
 
-## Ocean Mesoscale Eddies and their Parameterizations
+## Multiple Robots for Controlling and Observing Dynamical Phenomenon - MuRoPhen - 2020
 
 <figure>
   <img src="/assets/images/KE.png" width="1000px" alt="">
@@ -70,7 +70,7 @@ Related publications: [Loose et al.](https://doi.org/10.1175/JPO-D-22-0083.1), J
 [Loose et al.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003518), JAMES (2023);
 [Marques, Loose et al.](https://gmd.copernicus.org/articles/15/6567/2022/), GMD (2022). 
 
-## Adjoint Modeling in the North Atlantic
+## Autonomous Navigation and Tag Detection for IoT Applications - 2019
 
 <figure>
   <img src="/assets/images/sensitivity_teleconnections.png" alt="">
@@ -89,7 +89,7 @@ Related publications:
 Loose, [PhD Dissertation](http://bora.uib.no/handle/1956/24456), 2019.
 
 
-## Uncertainty Quantification & Observing System Design
+## Performance Evaluation of Various QRS Detection Algorithms - 2016
 
 <figure>
   <img src="/assets/images/QND.png" alt="">
