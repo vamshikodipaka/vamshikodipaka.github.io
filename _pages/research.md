@@ -11,7 +11,6 @@ toc_sticky: true
 ---
 
 My research lies at the intersection of deep learning, object detection, informative path planning, drones, search and rescue. Current and past research projects include:
-
 - Navigation Systems for Search and Rescue with Drones (2022-26)
 - Multi-Object Tracking using Multispectral Images in Forestry Environments - SEMFIRE - 2022
 - Multiple Robots for Controlling and Observing Dynamical Phenomenon - MuRoPhen - 2020
@@ -31,8 +30,13 @@ My research lies at the intersection of deep learning, object detection, informa
 
 [Video-1](https://youtu.be/wa7ZPiVeVA8)
 
-
 ## Multi-Object Tracking using Multispectral Images in Forestry Environments - SEMFIRE - 2022
+
+<figure>
+  <img src="/assets/images/hybrid_climate_modeling.png" width="1000px" alt="">
+  <figcaption>A hybrid climate model combines a traditional dynamical core with machine-learned parameterizations.
+</figcaption>
+</figure>
 
 <figure>
   <img src="/assets/images/semfire.png" width="1000px" alt="">
@@ -46,7 +50,6 @@ My research lies at the intersection of deep learning, object detection, informa
 
 [Video-2](https://youtu.be/IQaL3qS-bVM)
 
-
 ## Multiple Robots for Controlling and Observing Dynamical Phenomenon - MuRoPhen - 2020
 
 <figure>
@@ -56,7 +59,7 @@ My research lies at the intersection of deep learning, object detection, informa
 </figure>
 
 <figure>
-  <img src="/assets/images/tion.jpg" width="1000px" alt="">
+  <img src="/assets/images/detection.jpg" width="1000px" alt="">
   <figcaption>Deep Learning-based Object Detection
 </figcaption>
 </figure>
@@ -66,7 +69,6 @@ My research lies at the intersection of deep learning, object detection, informa
 - Project: Control of Multi‑Robot Systems for Observing Dynamical Phenomena (MuRoPhen)
 
 [Video-3](https://youtu.be/o_03c37iEzY)
-
 
 ## Autonomous Navigation and Tag Detection for IoT Applications - 2019
 
@@ -83,7 +85,6 @@ My research lies at the intersection of deep learning, object detection, informa
 - Software Tools: ROS, Python, Ubuntu 16.04, Kinetic Kame
 
 [Video-4](https://youtu.be/rtxCUmQBTSE)
-
 
 ## Performance Evaluation of Various QRS Detection Algorithms - 2016
 
