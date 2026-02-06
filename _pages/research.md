@@ -12,6 +12,12 @@ toc_sticky: true
 
 My research lies at the intersection of deep learning, object detection, informative path planning, drones, search and rescue. Current and past research projects include:
 
+- Navigation Systems for Search and Rescue with Drones (2022-26)
+- Multi-Object Tracking using Multispectral Images in Forestry Environments - SEMFIRE - 2022
+- Multiple Robots for Controlling and Observing Dynamical Phenomenon - MuRoPhen - 2020
+- Autonomous Navigation and Tag Detection for IoT Applications - 2019
+- Performance Evaluation of Various QRS Detection Algorithms - 2016
+
 ## Navigation Systems for Search and Rescue with Drones (2022-26)
 
 <figure>
