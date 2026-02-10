@@ -256,3 +256,14 @@ Trustworthy deployment pipelines
 ## Unifying Insight (2026)
 
 AI excels at generation, recognition, and imitation—but still fails at reliable understanding, reasoning, and action in open-ended, uncertain, real-world environments.
+
+# Note:
+
+1. I have some ideas in my mind to work on, here are the list of topics: Synaptic Attention, Informative Path Planning, Emergent Behaviors, Robotics & AI, Space Methodologies. 
+I am look to build a team: age 22-32. Looking for long term success. If interested ping me. Completely voluntary no salary is given. You can propose your own ideas too.
+
+2. If you want to appreciate or criticize my work, please feel free to write an email. 
+
+Thank you.
+
+Vamshi
