@@ -262,7 +262,9 @@ AI excels at generation, recognition, and imitation—but still fails at reliabl
 1. I have some ideas in my mind to work on, here are the list of topics: Synaptic Attention, Informative Path Planning, Emergent Behaviors, Robotics & AI, Space Methodologies. 
 I am look to build a team: age 22-32. Looking for long term success. If interested ping me. Completely voluntary no salary is given. You can propose your own ideas too.
 
-2. If you want to appreciate or criticize my work, please feel free to write an email. 
+2. It's time to think of and fundamentally transform the "Transformer" and "Attention" Concepts in AI, Vision, Language, biological sequencing, protein folding etc. Join me.
+  
+3. If you want to appreciate or criticize my work, please feel free to write an email. 
 
 Thank you.
 
