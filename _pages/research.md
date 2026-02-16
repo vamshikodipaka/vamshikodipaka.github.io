@@ -12,7 +12,7 @@ toc_sticky: true
 
 My research lies at the intersection of deep learning, object detection, informative path planning, drones, search and rescue. Current and past research projects include:
 - Navigation Systems for Search and Rescue with Drones (2022-26)
-- Multi-Object Tracking using Multispectral Images in Forestry Environments - SEMFIRE - 2022
+- Dynamic Entity Tracking with Multispectral Images in Forestry Environments - SEMFIRE - 2022
 - Multiple Robots for Controlling and Observing Dynamical Phenomenon - MuRoPhen - 2020
 - Autonomous Navigation and Tag Detection for IoT Applications - 2019
 - Performance Evaluation of Various QRS Detection Algorithms - 2016
@@ -33,7 +33,7 @@ My research lies at the intersection of deep learning, object detection, informa
 
 [Video-1](https://youtu.be/wa7ZPiVeVA8)
 
-## Multi-Object Tracking using Multispectral Images in Forestry Environments - SEMFIRE - 2022
+## 2D/3D Dynamic Entity Tracking with Multispectral Images in Forestry Environments - SEMFIRE - 2022
 
 <figure>
   <img src="/assets/images/semfire.png" width="1000px" alt="">
@@ -66,6 +66,8 @@ My research lies at the intersection of deep learning, object detection, informa
 - Goal was to integrate a vision‑based system on a pair of quadrotor and a rover, and develop algorithms to track another moving quadrotor outdoors.
 
 - Designed a novel approach for Occlusion Avoidance by Mathematical Modelling, surveyed literature for learning approaches in tracking, and benchmarked Convolutional Neural Networks with two PC configurations, CPU and GPUs.
+
+- Subject: Vision-based Control for Cooperative Heterogeneous Vehicles 
 
 - Project: Control of Multi‑Robot Systems for Observing Dynamical Phenomena (MuRoPhen)
 
