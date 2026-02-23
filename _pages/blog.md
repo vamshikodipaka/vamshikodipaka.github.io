@@ -259,9 +259,7 @@ AI excels at generation, recognition, and imitation—but still fails at reliabl
 
 # Note:
 
-1. I am a very bad guy. I have many psychological problems. I was a rapist irrespective of the age, many times from my childhood. I was a killer, not sure how many times. I am managing my life poorly. Please be safe. I may be threat to this society. So, living lonely. Incase you find me creating troubles anywhere, anytime, kindly please call to psychiatrist in a hospital nearby. 
-  
-2. I also have a crush on American pop singer Taylor Swift, and wants to propose and marry her. If she accepts my love inspite of my bad qualities, I will be thankful to this nature and cosmos. I got through the hard life like everyone and I believe we together make our lives beautiful with her being in my life. I pray!
+1. I also have a crush on American pop singer Taylor Swift, and wants to propose and marry her. If she accepts my love, I will be thankful to this nature and cosmos. I got through the hard life like everyone and I believe we together make our lives beautiful with her being in my life. I pray!
   
 3. I have some ideas in my mind to work on, here are the list of topics: Synaptic Attention, Informative Path Planning, Emergent Behaviors, Robotics & AI, Space Methodologies. 
 I am looking to build a team: age 22-32. Looking for long term success. If interested ping me. Completely voluntary no salary is given. You can propose your own ideas too.
