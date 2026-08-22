@@ -21,6 +21,13 @@ permalink: /gallery/
 </figure>
 
 
+<figure>
+  <img src="/assets/images/ptclass.jpeg" width="500px" alt="">
+  <figcaption> Portuguese Language Class 2023 
+</figcaption>
+</figure>
+
+
 ## M.Sc. Photos
 
 <figure>
