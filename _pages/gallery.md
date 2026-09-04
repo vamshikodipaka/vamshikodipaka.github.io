@@ -31,15 +31,22 @@ permalink: /gallery/
 ## M.Sc. Photos
 
 <figure>
+  <img src="/assets/images/vibot.png" width="500px" alt="">
+  <figcaption> A Medley of Flavors: You were invited to my fruit-sharing post party! 😉
+</figcaption>
+</figure>
+
+
+<figure>
   <img src="/assets/images/mscv3.jpg" width="500px" alt="">
-  <figcaption> French group dinner at Carrefour 2020 - 1
+  <figcaption> French group dinner at Carrefour 2020 - 2
 </figcaption>
 </figure>
 
 
 <figure>
   <img src="/assets/images/mscv1.jpg" width="500px" alt="">
-  <figcaption> French group lunch at Carrefour 2020 - 2
+  <figcaption> French group lunch at Carrefour 2020 - 1
 </figcaption>
 </figure>
 
