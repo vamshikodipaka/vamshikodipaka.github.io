@@ -33,7 +33,7 @@ My Personality: Roboticist, Visionary, Purpose-Driven, Innovative, Adaptive, Cat
 
 <figure>
   <img src="/assets/images/AI_Drone_Active_Sensing_Website_Animated.gif" width="1000px" alt="">
-  <figcaption> what is my current expertise in research
+  <figcaption> what is my current expertise in research?
 </figcaption>
 </figure>
 
