@@ -31,11 +31,6 @@ My Personality: Roboticist, Visionary, Purpose-Driven, Innovative, Adaptive, Cat
 
 [Google Scholar](https://scholar.google.com/citations?user=ah_UH7QAAAAJ&hl=en&oi=ao), [Research Gate](https://www.researchgate.net/profile/Vamshi-Kodipaka)
 
-<figure>
-  <img src="/assets/images/AI_Drone_Active_Sensing_Website_Animated.gif" width="1000px" alt="">
-  <figcaption> what is my current expertise in research?
-</figcaption>
-</figure>
 
 <figure>
   <img src="/assets/images/mitss.webp" width="1000px" alt="">
