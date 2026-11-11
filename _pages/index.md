@@ -38,6 +38,12 @@ My Personality: Roboticist, Visionary, Purpose-Driven, Innovative, Adaptive, Cat
 </figcaption>
 </figure>
 
+<figure>
+  <img src="/assets/images/pweb.PNG" width="1000px" alt="">
+  <figcaption> Research Areas
+</figcaption>
+</figure>
+
 <br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=vamshikodipaka.vamshikodipaka.github.io" alt="visitor badge"/>
 
